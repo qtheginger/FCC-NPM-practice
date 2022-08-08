@@ -1,10 +1,12 @@
 {
 	"author": "Quinten Steenwyk",
+	"description": "just practice",
+	"keywords": ["freecodecamp", "npm", "practice"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"description": "just practice",
+	
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
